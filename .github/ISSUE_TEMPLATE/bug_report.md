@@ -6,12 +6,6 @@ labels: ''
 assignees: ''
 ---
 
-**Operating System:**
-OS:
-
-**Installer Version:**
-Installer:
-
 **App Version:**
 App: 
 
