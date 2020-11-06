@@ -13,6 +13,7 @@ App:
 UI: 
 
 **Log Files:**
+**REQUIRED**
 Put links to your logs here
 how to find logs: https://faq.ftb.world/books/ftb-app/page/uploading-app-logs
 
